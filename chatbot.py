@@ -141,7 +141,7 @@ def main():
     st.markdown(
         """
         ---
-        Made with ❤️ by [Aditi](https://www.linkedin.com/in/aditinubale) | Powered by Gemini AI
+        Made with ❤️ by [YOUR_NAME](LINKEDIN_LINK) | Powered by Gemini AI
         """
     )
 
